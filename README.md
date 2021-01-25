@@ -25,3 +25,7 @@ the following provided examples can be used to get you started
 * [xor_fc.py](xor_fc.py) - Xor example using FC layer
 * [mnist_fc.py](mnist_fc.py) - Mnist example using FC layer
 * [mnist_conv.py](mnist_conv.py) - Mnist example using Convolution layer
+
+## Colab Notebook
+
+The following [Colab Notebook](https://colab.research.google.com/drive/1zkxpiKX3NFEpSNtRYZAipH2MVvnKuv9D?usp=sharing) describes the framework and tests it
